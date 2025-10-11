@@ -45,4 +45,7 @@ while (znovu == "a")
 
     Console.WriteLine("Pro opakování programu stiskněte klávesu 'a' a ENTER, pro ukončení libovolnou jinou klávesu a ENTER.");
     znovu = Console.ReadLine();
+    Console.Clear();
 }
+Console.WriteLine("Děkuji za použití programu. Pro ukončení stiskněte libovolnou klávesu.");
+Console.ReadKey();
