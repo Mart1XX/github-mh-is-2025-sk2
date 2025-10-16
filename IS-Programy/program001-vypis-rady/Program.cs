@@ -22,11 +22,11 @@ while (znovu == "a")
     {
         Console.WriteLine("Neplatný vstup. Zadejte prosím celé číslo pro první číslo řady: ");
     }
-    Console.WriteLine("Zadejte počet členů řady: ");
-    int pocetClenu;
-    while (!int.TryParse(Console.ReadLine(), out pocetClenu) || pocetClenu <= 0)
+    Console.WriteLine("Zadejte poslední číslo řady: ");
+    int posledniCislo;
+    while (!int.TryParse(Console.ReadLine(), out posledniCislo) || posledniCislo <= prvniCislo)
     {
-        Console.WriteLine("Neplatný vstup. Zadejte prosím celé kladné číslo pro počet členů řady: ");
+        Console.WriteLine("Neplatný vstup. Zadejte prosím celé číslo větší než první číslo řady: ");
     }
     Console.WriteLine("Zadejte krok řady: ");
     int krok;
@@ -36,13 +36,17 @@ while (znovu == "a")
     }
     Console.WriteLine();
     // Výpis řady
-    for (int i = 0; i < pocetClenu; i++)
+    Console.WriteLine("********************************");
+    Console.WriteLine("********************************");
+    Console.WriteLine("Číselná řada je:");
+    for (int i = prvniCislo; i <= posledniCislo; i += krok)
     {
-        Console.Write(prvniCislo + i * krok + " ");
+        Console.Write(i + " ");
     }
+    Console.WriteLine("********************************");
+    Console.WriteLine("********************************");
     Console.WriteLine();
-    Console.WriteLine();
-
+    // Opakování programu
     Console.WriteLine("Pro opakování programu stiskněte klávesu 'a' a ENTER, pro ukončení libovolnou jinou klávesu a ENTER.");
     znovu = Console.ReadLine();
     Console.Clear();
