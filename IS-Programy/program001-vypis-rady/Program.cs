@@ -26,13 +26,13 @@ while (znovu == "a")
     int pocetClenu;
     while (!int.TryParse(Console.ReadLine(), out pocetClenu) || pocetClenu <= 0)
     {
-        Console.WriteLine("Neplatný vstup. Zadejte prosím kladné celé číslo pro počet členů řady: ");
+        Console.WriteLine("Neplatný vstup. Zadejte prosím celé kladné číslo pro počet členů řady: ");
     }
     Console.WriteLine("Zadejte krok řady: ");
     int krok;
-    while (!int.TryParse(Console.ReadLine(), out krok) || krok <= 0)
+    while (!int.TryParse(Console.ReadLine(), out krok))
     {
-        Console.WriteLine("Neplatný vstup. Zadejte prosím kladné celé číslo pro krok řady: ");
+        Console.WriteLine("Neplatný vstup. Zadejte prosím celé číslo pro krok řady: ");
     }
     Console.WriteLine();
     // Výpis řady
