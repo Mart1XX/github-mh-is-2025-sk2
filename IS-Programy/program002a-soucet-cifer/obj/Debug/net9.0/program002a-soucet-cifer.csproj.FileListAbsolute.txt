@@ -1,0 +1,15 @@
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program002a-soucet-cifer/bin/Debug/net9.0/program002a-soucet-cifer
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program002a-soucet-cifer/bin/Debug/net9.0/program002a-soucet-cifer.deps.json
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program002a-soucet-cifer/bin/Debug/net9.0/program002a-soucet-cifer.runtimeconfig.json
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program002a-soucet-cifer/bin/Debug/net9.0/program002a-soucet-cifer.dll
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program002a-soucet-cifer/bin/Debug/net9.0/program002a-soucet-cifer.pdb
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program002a-soucet-cifer/obj/Debug/net9.0/program002a-soucet-cifer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program002a-soucet-cifer/obj/Debug/net9.0/program002a-soucet-cifer.AssemblyInfoInputs.cache
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program002a-soucet-cifer/obj/Debug/net9.0/program002a-soucet-cifer.AssemblyInfo.cs
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program002a-soucet-cifer/obj/Debug/net9.0/program002a-soucet-cifer.csproj.CoreCompileInputs.cache
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program002a-soucet-cifer/obj/Debug/net9.0/program002a-soucet-cifer.sourcelink.json
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program002a-soucet-cifer/obj/Debug/net9.0/program002a-soucet-cifer.dll
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program002a-soucet-cifer/obj/Debug/net9.0/refint/program002a-soucet-cifer.dll
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program002a-soucet-cifer/obj/Debug/net9.0/program002a-soucet-cifer.pdb
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program002a-soucet-cifer/obj/Debug/net9.0/program002a-soucet-cifer.genruntimeconfig.cache
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program002a-soucet-cifer/obj/Debug/net9.0/ref/program002a-soucet-cifer.dll
