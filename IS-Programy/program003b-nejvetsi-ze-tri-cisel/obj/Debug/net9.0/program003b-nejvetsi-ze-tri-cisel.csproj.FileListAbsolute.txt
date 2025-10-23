@@ -1,0 +1,15 @@
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program003b-nejvetsi-ze-tri-cisel/bin/Debug/net9.0/program003b-nejvetsi-ze-tri-cisel
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program003b-nejvetsi-ze-tri-cisel/bin/Debug/net9.0/program003b-nejvetsi-ze-tri-cisel.deps.json
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program003b-nejvetsi-ze-tri-cisel/bin/Debug/net9.0/program003b-nejvetsi-ze-tri-cisel.runtimeconfig.json
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program003b-nejvetsi-ze-tri-cisel/bin/Debug/net9.0/program003b-nejvetsi-ze-tri-cisel.dll
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program003b-nejvetsi-ze-tri-cisel/bin/Debug/net9.0/program003b-nejvetsi-ze-tri-cisel.pdb
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program003b-nejvetsi-ze-tri-cisel/obj/Debug/net9.0/program003b-nejvetsi-ze-tri-cisel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program003b-nejvetsi-ze-tri-cisel/obj/Debug/net9.0/program003b-nejvetsi-ze-tri-cisel.AssemblyInfoInputs.cache
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program003b-nejvetsi-ze-tri-cisel/obj/Debug/net9.0/program003b-nejvetsi-ze-tri-cisel.AssemblyInfo.cs
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program003b-nejvetsi-ze-tri-cisel/obj/Debug/net9.0/program003b-nejvetsi-ze-tri-cisel.csproj.CoreCompileInputs.cache
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program003b-nejvetsi-ze-tri-cisel/obj/Debug/net9.0/program003b-nejvetsi-ze-tri-cisel.sourcelink.json
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program003b-nejvetsi-ze-tri-cisel/obj/Debug/net9.0/program003b-nejvetsi-ze-tri-cisel.dll
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program003b-nejvetsi-ze-tri-cisel/obj/Debug/net9.0/refint/program003b-nejvetsi-ze-tri-cisel.dll
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program003b-nejvetsi-ze-tri-cisel/obj/Debug/net9.0/program003b-nejvetsi-ze-tri-cisel.pdb
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program003b-nejvetsi-ze-tri-cisel/obj/Debug/net9.0/program003b-nejvetsi-ze-tri-cisel.genruntimeconfig.cache
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program003b-nejvetsi-ze-tri-cisel/obj/Debug/net9.0/ref/program003b-nejvetsi-ze-tri-cisel.dll
