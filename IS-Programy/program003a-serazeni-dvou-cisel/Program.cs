@@ -19,12 +19,30 @@ while (again == "a")
         Console.Write("Nezadali jste celé číslo. Zadejte celé číslo A znovu: ");
     }
 
-
-
-
-
-
-
+    Console.Write("Zadejte celé číslo B: ");
+    int b;
+    while (!int.TryParse(Console.ReadLine(), out b))
+    {
+        Console.Write("Nezadali jste celé číslo. Zadejte celé číslo B znovu: ");
+    }
+    // Chci seřadit čísla a a b vzestupně
+    Console.WriteLine();
+    int temp;
+    if (a < b)
+    {
+        temp = a;
+        a = b;
+        b = temp;
+        Console.WriteLine("********************************");
+        Console.WriteLine($"Čísla seřazená vzestupně: {a}, {b}");
+        Console.WriteLine("********************************");
+    }
+    else
+    {
+        Console.WriteLine("********************************");
+        Console.WriteLine($"Čísla seřazená vzestupně: {a}, {b}");
+        Console.WriteLine("********************************");
+    }
 
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a");
