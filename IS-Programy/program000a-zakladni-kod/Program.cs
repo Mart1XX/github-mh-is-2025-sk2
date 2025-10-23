@@ -3,25 +3,20 @@ while (again == "a")
 {
     Console.Clear();
     Console.WriteLine("********************************************");
-    Console.WriteLine("*********** Výpis číselné řady *************");
+    Console.WriteLine("*********** Seřazení dvou čísel ************");
     Console.WriteLine("********************************************");
     Console.WriteLine("********************************************");
     Console.WriteLine("************ Martin Hruška *****************");
-    Console.WriteLine("************** 2.10.2025 *******************");
+    Console.WriteLine("************** 23.10.2025 *******************");
     Console.WriteLine("********************************************");
     Console.WriteLine("********************************************");
     Console.WriteLine();
 
-    // Vstup hodnoty do programu, ale špatně řešený
-    //Console.Write("Zadejte první číslo řady: ");
-    //int first = int.Parse(Console.ReadLine());
-
-    // Vstup hodnoty do programu, řešený lépe
-    Console.Write("Zadejte první číslo řady (celé číslo): ");
-    int first;
-    while (!int.TryParse(Console.ReadLine(), out first))
+    Console.Write("Zadejte celé číslo A: ");
+    int a;
+    while (!int.TryParse(Console.ReadLine(), out a))
     {
-        Console.Write("Nezadali jste celé číslo. Zadejte první číslo řady znovu: ");
+        Console.Write("Nezadali jste celé číslo. Zadejte celé číslo A znovu: ");
     }
 
 
