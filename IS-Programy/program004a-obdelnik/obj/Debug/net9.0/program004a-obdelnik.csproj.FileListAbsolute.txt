@@ -1,0 +1,15 @@
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program004a-obdelnik/bin/Debug/net9.0/program004a-obdelnik
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program004a-obdelnik/bin/Debug/net9.0/program004a-obdelnik.deps.json
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program004a-obdelnik/bin/Debug/net9.0/program004a-obdelnik.runtimeconfig.json
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program004a-obdelnik/bin/Debug/net9.0/program004a-obdelnik.dll
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program004a-obdelnik/bin/Debug/net9.0/program004a-obdelnik.pdb
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program004a-obdelnik/obj/Debug/net9.0/program004a-obdelnik.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program004a-obdelnik/obj/Debug/net9.0/program004a-obdelnik.AssemblyInfoInputs.cache
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program004a-obdelnik/obj/Debug/net9.0/program004a-obdelnik.AssemblyInfo.cs
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program004a-obdelnik/obj/Debug/net9.0/program004a-obdelnik.csproj.CoreCompileInputs.cache
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program004a-obdelnik/obj/Debug/net9.0/program004a-obdelnik.sourcelink.json
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program004a-obdelnik/obj/Debug/net9.0/program004a-obdelnik.dll
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program004a-obdelnik/obj/Debug/net9.0/refint/program004a-obdelnik.dll
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program004a-obdelnik/obj/Debug/net9.0/program004a-obdelnik.pdb
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program004a-obdelnik/obj/Debug/net9.0/program004a-obdelnik.genruntimeconfig.cache
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program004a-obdelnik/obj/Debug/net9.0/ref/program004a-obdelnik.dll
