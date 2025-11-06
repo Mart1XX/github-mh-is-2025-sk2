@@ -1,0 +1,15 @@
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program005-generator/bin/Debug/net9.0/program005-generator
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program005-generator/bin/Debug/net9.0/program005-generator.deps.json
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program005-generator/bin/Debug/net9.0/program005-generator.runtimeconfig.json
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program005-generator/bin/Debug/net9.0/program005-generator.dll
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program005-generator/bin/Debug/net9.0/program005-generator.pdb
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program005-generator/obj/Debug/net9.0/program005-generator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program005-generator/obj/Debug/net9.0/program005-generator.AssemblyInfoInputs.cache
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program005-generator/obj/Debug/net9.0/program005-generator.AssemblyInfo.cs
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program005-generator/obj/Debug/net9.0/program005-generator.csproj.CoreCompileInputs.cache
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program005-generator/obj/Debug/net9.0/program005-generator.sourcelink.json
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program005-generator/obj/Debug/net9.0/program005-generator.dll
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program005-generator/obj/Debug/net9.0/refint/program005-generator.dll
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program005-generator/obj/Debug/net9.0/program005-generator.pdb
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program005-generator/obj/Debug/net9.0/program005-generator.genruntimeconfig.cache
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program005-generator/obj/Debug/net9.0/ref/program005-generator.dll
