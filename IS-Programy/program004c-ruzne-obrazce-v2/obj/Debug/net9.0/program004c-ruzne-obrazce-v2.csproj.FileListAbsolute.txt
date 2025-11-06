@@ -1,0 +1,15 @@
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program004c-ruzne-obrazce-v2/bin/Debug/net9.0/program004c-ruzne-obrazce-v2
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program004c-ruzne-obrazce-v2/bin/Debug/net9.0/program004c-ruzne-obrazce-v2.deps.json
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program004c-ruzne-obrazce-v2/bin/Debug/net9.0/program004c-ruzne-obrazce-v2.runtimeconfig.json
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program004c-ruzne-obrazce-v2/bin/Debug/net9.0/program004c-ruzne-obrazce-v2.dll
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program004c-ruzne-obrazce-v2/bin/Debug/net9.0/program004c-ruzne-obrazce-v2.pdb
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program004c-ruzne-obrazce-v2/obj/Debug/net9.0/program004c-ruzne-obrazce-v2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program004c-ruzne-obrazce-v2/obj/Debug/net9.0/program004c-ruzne-obrazce-v2.AssemblyInfoInputs.cache
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program004c-ruzne-obrazce-v2/obj/Debug/net9.0/program004c-ruzne-obrazce-v2.AssemblyInfo.cs
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program004c-ruzne-obrazce-v2/obj/Debug/net9.0/program004c-ruzne-obrazce-v2.csproj.CoreCompileInputs.cache
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program004c-ruzne-obrazce-v2/obj/Debug/net9.0/program004c-ruzne-obrazce-v2.sourcelink.json
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program004c-ruzne-obrazce-v2/obj/Debug/net9.0/program004c-ruzne-obrazce-v2.dll
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program004c-ruzne-obrazce-v2/obj/Debug/net9.0/refint/program004c-ruzne-obrazce-v2.dll
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program004c-ruzne-obrazce-v2/obj/Debug/net9.0/program004c-ruzne-obrazce-v2.pdb
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program004c-ruzne-obrazce-v2/obj/Debug/net9.0/program004c-ruzne-obrazce-v2.genruntimeconfig.cache
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program004c-ruzne-obrazce-v2/obj/Debug/net9.0/ref/program004c-ruzne-obrazce-v2.dll

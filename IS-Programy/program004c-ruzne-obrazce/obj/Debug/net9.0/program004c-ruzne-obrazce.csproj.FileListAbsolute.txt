@@ -1,0 +1,5 @@
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program004c-ruzne-obrazce/obj/Debug/net9.0/program004c-ruzne-obrazce.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program004c-ruzne-obrazce/obj/Debug/net9.0/program004c-ruzne-obrazce.AssemblyInfoInputs.cache
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program004c-ruzne-obrazce/obj/Debug/net9.0/program004c-ruzne-obrazce.AssemblyInfo.cs
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program004c-ruzne-obrazce/obj/Debug/net9.0/program004c-ruzne-obrazce.csproj.CoreCompileInputs.cache
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program004c-ruzne-obrazce/obj/Debug/net9.0/program004c-ruzne-obrazce.sourcelink.json
