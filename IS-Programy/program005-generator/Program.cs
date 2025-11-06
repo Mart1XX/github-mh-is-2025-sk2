@@ -31,6 +31,15 @@ while (again == "a")
         Console.Write("Nezadali jste celé číslo nebo je horní mez menší než dolní. Zadejte ho znovu: ");
     }
 
+    // Kladná a záporná čísla nebo nuly
+    int positiveNums = 0;
+    int negativeNums = 0;
+    int nullNums = 0;
+
+    // Sudá nebo lichá čísla
+    int evenNums = 0;
+    int oddNums = 0;
+
     Console.WriteLine("********************************************");
     Console.WriteLine("********************************************");
     Console.WriteLine("Počet čísel: {0}, Dolní mez: {1}, Horní mez: {2}", n, lowerBound, upperBound);
@@ -38,16 +47,38 @@ while (again == "a")
     Console.WriteLine("********************************************");
     Console.WriteLine("Generovaná čísla:");
     Random random = new Random();
+    int randomNumber = 0;
     for (int i = 0; i < n; i++)
     {
-        int randomNumber = random.Next(lowerBound, upperBound + 1);
+        randomNumber = random.Next(lowerBound, upperBound + 1);
         Console.Write($"{randomNumber}, ");
     }
+    if (randomNumber > 0)
+        {
+            positiveNums++;
+        }
+        else if (randomNumber < 0)
+        {
+            negativeNums++;
+        }
+        else
+        {
+            nullNums++;
+        }
+
+        if (randomNumber % 2 == 0)
+        {
+            evenNums++;
+        }
+        else
+        {
+            oddNums++;
+        }
+    
     Console.WriteLine();
     Console.WriteLine("********************************************");
     Console.WriteLine("********************************************");
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a");
     again = Console.ReadLine();
-
 }
