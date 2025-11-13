@@ -1,0 +1,15 @@
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program006a-max-min/bin/Debug/net9.0/program006a-max-min
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program006a-max-min/bin/Debug/net9.0/program006a-max-min.deps.json
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program006a-max-min/bin/Debug/net9.0/program006a-max-min.runtimeconfig.json
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program006a-max-min/bin/Debug/net9.0/program006a-max-min.dll
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program006a-max-min/bin/Debug/net9.0/program006a-max-min.pdb
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program006a-max-min/obj/Debug/net9.0/program006a-max-min.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program006a-max-min/obj/Debug/net9.0/program006a-max-min.AssemblyInfoInputs.cache
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program006a-max-min/obj/Debug/net9.0/program006a-max-min.AssemblyInfo.cs
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program006a-max-min/obj/Debug/net9.0/program006a-max-min.csproj.CoreCompileInputs.cache
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program006a-max-min/obj/Debug/net9.0/program006a-max-min.sourcelink.json
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program006a-max-min/obj/Debug/net9.0/program006a-max-min.dll
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program006a-max-min/obj/Debug/net9.0/refint/program006a-max-min.dll
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program006a-max-min/obj/Debug/net9.0/program006a-max-min.pdb
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program006a-max-min/obj/Debug/net9.0/program006a-max-min.genruntimeconfig.cache
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program006a-max-min/obj/Debug/net9.0/ref/program006a-max-min.dll
