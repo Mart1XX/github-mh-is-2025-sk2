@@ -1,0 +1,15 @@
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program007a-bubble-sort/bin/Debug/net9.0/program007a-bubble-sort
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program007a-bubble-sort/bin/Debug/net9.0/program007a-bubble-sort.deps.json
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program007a-bubble-sort/bin/Debug/net9.0/program007a-bubble-sort.runtimeconfig.json
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program007a-bubble-sort/bin/Debug/net9.0/program007a-bubble-sort.dll
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program007a-bubble-sort/bin/Debug/net9.0/program007a-bubble-sort.pdb
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program007a-bubble-sort/obj/Debug/net9.0/program007a-bubble-sort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program007a-bubble-sort/obj/Debug/net9.0/program007a-bubble-sort.AssemblyInfoInputs.cache
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program007a-bubble-sort/obj/Debug/net9.0/program007a-bubble-sort.AssemblyInfo.cs
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program007a-bubble-sort/obj/Debug/net9.0/program007a-bubble-sort.csproj.CoreCompileInputs.cache
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program007a-bubble-sort/obj/Debug/net9.0/program007a-bubble-sort.sourcelink.json
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program007a-bubble-sort/obj/Debug/net9.0/program007a-bubble-sort.dll
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program007a-bubble-sort/obj/Debug/net9.0/refint/program007a-bubble-sort.dll
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program007a-bubble-sort/obj/Debug/net9.0/program007a-bubble-sort.pdb
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program007a-bubble-sort/obj/Debug/net9.0/program007a-bubble-sort.genruntimeconfig.cache
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program007a-bubble-sort/obj/Debug/net9.0/ref/program007a-bubble-sort.dll
