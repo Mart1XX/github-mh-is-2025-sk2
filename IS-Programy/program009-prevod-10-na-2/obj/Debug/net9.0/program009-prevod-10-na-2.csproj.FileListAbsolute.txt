@@ -1,0 +1,15 @@
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program009-prevod-10-na-2/bin/Debug/net9.0/program009-prevod-10-na-2
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program009-prevod-10-na-2/bin/Debug/net9.0/program009-prevod-10-na-2.deps.json
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program009-prevod-10-na-2/bin/Debug/net9.0/program009-prevod-10-na-2.runtimeconfig.json
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program009-prevod-10-na-2/bin/Debug/net9.0/program009-prevod-10-na-2.dll
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program009-prevod-10-na-2/bin/Debug/net9.0/program009-prevod-10-na-2.pdb
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program009-prevod-10-na-2/obj/Debug/net9.0/program009-prevod-10-na-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program009-prevod-10-na-2/obj/Debug/net9.0/program009-prevod-10-na-2.AssemblyInfoInputs.cache
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program009-prevod-10-na-2/obj/Debug/net9.0/program009-prevod-10-na-2.AssemblyInfo.cs
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program009-prevod-10-na-2/obj/Debug/net9.0/program009-prevod-10-na-2.csproj.CoreCompileInputs.cache
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program009-prevod-10-na-2/obj/Debug/net9.0/program009-prevod-10-na-2.sourcelink.json
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program009-prevod-10-na-2/obj/Debug/net9.0/program009-prevod-10-na-2.dll
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program009-prevod-10-na-2/obj/Debug/net9.0/refint/program009-prevod-10-na-2.dll
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program009-prevod-10-na-2/obj/Debug/net9.0/program009-prevod-10-na-2.pdb
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program009-prevod-10-na-2/obj/Debug/net9.0/program009-prevod-10-na-2.genruntimeconfig.cache
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program009-prevod-10-na-2/obj/Debug/net9.0/ref/program009-prevod-10-na-2.dll
