@@ -1,0 +1,15 @@
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program008-reverze-pole/bin/Debug/net9.0/program008-reverze-pole
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program008-reverze-pole/bin/Debug/net9.0/program008-reverze-pole.deps.json
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program008-reverze-pole/bin/Debug/net9.0/program008-reverze-pole.runtimeconfig.json
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program008-reverze-pole/bin/Debug/net9.0/program008-reverze-pole.dll
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program008-reverze-pole/bin/Debug/net9.0/program008-reverze-pole.pdb
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program008-reverze-pole/obj/Debug/net9.0/program008-reverze-pole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program008-reverze-pole/obj/Debug/net9.0/program008-reverze-pole.AssemblyInfoInputs.cache
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program008-reverze-pole/obj/Debug/net9.0/program008-reverze-pole.AssemblyInfo.cs
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program008-reverze-pole/obj/Debug/net9.0/program008-reverze-pole.csproj.CoreCompileInputs.cache
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program008-reverze-pole/obj/Debug/net9.0/program008-reverze-pole.sourcelink.json
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program008-reverze-pole/obj/Debug/net9.0/program008-reverze-pole.dll
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program008-reverze-pole/obj/Debug/net9.0/refint/program008-reverze-pole.dll
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program008-reverze-pole/obj/Debug/net9.0/program008-reverze-pole.pdb
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program008-reverze-pole/obj/Debug/net9.0/program008-reverze-pole.genruntimeconfig.cache
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program008-reverze-pole/obj/Debug/net9.0/ref/program008-reverze-pole.dll
