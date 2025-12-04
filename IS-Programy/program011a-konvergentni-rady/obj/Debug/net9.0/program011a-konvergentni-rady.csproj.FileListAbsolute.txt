@@ -1,0 +1,15 @@
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program011a-konvergentni-rady/bin/Debug/net9.0/program011a-konvergentni-rady
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program011a-konvergentni-rady/bin/Debug/net9.0/program011a-konvergentni-rady.deps.json
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program011a-konvergentni-rady/bin/Debug/net9.0/program011a-konvergentni-rady.runtimeconfig.json
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program011a-konvergentni-rady/bin/Debug/net9.0/program011a-konvergentni-rady.dll
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program011a-konvergentni-rady/bin/Debug/net9.0/program011a-konvergentni-rady.pdb
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program011a-konvergentni-rady/obj/Debug/net9.0/program011a-konvergentni-rady.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program011a-konvergentni-rady/obj/Debug/net9.0/program011a-konvergentni-rady.AssemblyInfoInputs.cache
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program011a-konvergentni-rady/obj/Debug/net9.0/program011a-konvergentni-rady.AssemblyInfo.cs
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program011a-konvergentni-rady/obj/Debug/net9.0/program011a-konvergentni-rady.csproj.CoreCompileInputs.cache
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program011a-konvergentni-rady/obj/Debug/net9.0/program011a-konvergentni-rady.sourcelink.json
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program011a-konvergentni-rady/obj/Debug/net9.0/program011a-konvergentni-rady.dll
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program011a-konvergentni-rady/obj/Debug/net9.0/refint/program011a-konvergentni-rady.dll
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program011a-konvergentni-rady/obj/Debug/net9.0/program011a-konvergentni-rady.pdb
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program011a-konvergentni-rady/obj/Debug/net9.0/program011a-konvergentni-rady.genruntimeconfig.cache
+/Users/martinhruska/VSCode/github-mh-is-2025-sk2/IS-Programy/program011a-konvergentni-rady/obj/Debug/net9.0/ref/program011a-konvergentni-rady.dll
